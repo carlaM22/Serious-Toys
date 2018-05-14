@@ -27,3 +27,4 @@ https://www.pi-shop.ch/display
 https://www.wish.com/product/59a689f343101a4033eec5c5
 
 https://www.distrelec.ch/en/tft-lcd-touch-display-kit-raspberry-pi-raspberry-pi-7td/p/30037316?q=raspberry+pi+screen&page=17&origPos=17&origPageSize=25&simi=87.05
+
